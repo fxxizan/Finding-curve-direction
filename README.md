@@ -1,5 +1,6 @@
-# A short explanation on how finding the direction of curve works
 ![Talfaizan certified](https://github.com/user-attachments/assets/664a4342-3b6e-48b9-b7d1-f66b336f5be8)
+
+# A short explanation on how finding the direction of curve works
 
 I'm kinda bored and most devs in the community don't know how this works so I wrote this tutorial, it's my first so don't expect it to be amazing quality but I hope it teachers you something
 
